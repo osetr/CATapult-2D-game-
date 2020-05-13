@@ -1,4 +1,4 @@
 # CATapult-2D-game-
-![alt](/Introduce_pctrs/img3.png)
-![alt](/Introduce_pctrs/img1.png)
-![alt](/Introduce_pctrs/img2.png)
+![alt](/.data/img3.png)
+![alt](/.data/img1.png)
+![alt](/.data/img2.png)
