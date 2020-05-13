@@ -2,5 +2,4 @@
 2. Add .gitignore file to ignore `game.o` and `sfml-app` and other unnessecary files
 3. Add detailed description on what it is, how to compile and use it
 4. Add note, that sfml should be installed on the system to build the project
-
-
+5. Replace `build.sh` with `Makefile`
