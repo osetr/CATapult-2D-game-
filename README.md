@@ -6,7 +6,7 @@ To start tha game you need have Linux operating system and SFML library, and, of
 
 ` sudo apt-get install libsfml-dev `
 
-
+If you have problems with downloading, check this link: [SFML and Linux](https://www.google.com)
 ![alt](/Introduce_pctrs/img3.png)
 ![alt](/Introduce_pctrs/img1.png)
 ![alt](/Introduce_pctrs/img2.png)
