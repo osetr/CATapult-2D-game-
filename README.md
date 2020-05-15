@@ -28,7 +28,6 @@ Air:
 To remind you of all those options and keyword buttons for them, you get list before each game(you can skip it by space).
 ## 4. What awaits you
 Here are some screenshots from the game.
-------
 ![alt](/Introduce_pctrs/img3.png)
 ------
 ![alt](/Introduce_pctrs/img1.png)
