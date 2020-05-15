@@ -9,6 +9,7 @@ To start tha game you need have Linux operating system and SFML library, and, of
 If you have problems with downloading, check this link: [SFML and Linux](https://www.sfml-dev.org/tutorials/2.5/start-linux.php). If everything is okay and you have an SFML and a g++ compiler on your Linux core system, just launch build.sh file and enjoy the game, but in case you installed SFML to a non-standard path, you'll need to tell the compiler where to find the SFML headers. Also go to preceding link for help.
 ## 3. How to play
 You have such options for every Cat charachter:
+
 Ground:
   * leftward & rihtward movement
   * jump
@@ -16,6 +17,7 @@ Ground:
   * if you stand near house door:
     * scrooling options
     * choose an option
+    
 Air:
   * clockwise movement
   * counterclockwise movement
