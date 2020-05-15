@@ -21,6 +21,7 @@ Ground:
 Air:
   * clockwise movement
   * counterclockwise movement
+  * scrolling to choose desirble weapon
   * shooting
   * catapult
 
