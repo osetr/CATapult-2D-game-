@@ -10,6 +10,7 @@ If you have problems with downloading, check this link: [SFML and Linux](https:/
 ## 3. How to play
 You have such options for every Cat charachter:
 ------
+======
 ## 4. What awaits you
 Here are some screenshots from the game.
 ![alt](/Introduce_pctrs/img3.png)
