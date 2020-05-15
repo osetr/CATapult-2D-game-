@@ -23,6 +23,7 @@ Air:
   * counterclockwise movement
   * shooting
   * catapult
+
 To remind you of all those options and keyword buttons for them, you get list before each game(you can skip it by space).
 ## 4. What awaits you
 Here are some screenshots from the game.
