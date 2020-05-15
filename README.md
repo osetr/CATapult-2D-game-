@@ -13,7 +13,7 @@ Ground:
   * leftward & rihtward movement
   * jump
   * shooting with free and weak bullets
-  If you stand near house door:
+  * if you stand near house door:
     * scrooling options
     * choose an option
 Air:
